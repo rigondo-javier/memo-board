@@ -5,7 +5,7 @@ import './style.css';
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
-
+/*
 const a = new Sayer();
 (async () => {
   for (let i = 0; i < 11; ++i) {
@@ -14,3 +14,4 @@ const a = new Sayer();
     console.log('after ' + i);
   }
 })();
+*/
